@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @smilingstar78
+# 👋 Hi, I’m Muskan Tariq 
 
 ### 👀 About Me
 - AI student with a passion for coding and exploring the vast world of technology.
