@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @smilingstar78
-- 👀 I’m interested in codings
-- 🌱 I’m currently an AI student and learning python plus working on AI projects.
-- 💻 Growing with CS50 and Harvard Online... working on their AI, Python and web projects as well (Both frontend and Backend)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta: ai_enthusiast78, Linkdin: Muskan Tariq             
+# 👋 Hi, I’m @smilingstar78
+
+### 👀 About Me
+- AI student with a passion for coding and exploring the vast world of technology.
+- Currently learning Python and working on AI projects.
+- Growing through **CS50** and **Harvard Online**, focusing on both AI and Python programming.
+- Working on a variety of **AI**, **Frontend**, and **Backend** projects.
+
+### 🌱 What I’m Working On
+- Expanding knowledge through **AI**, **Python**, and **Web Development** projects.
+- Diving into both **frontend** and **backend** development.
+
+### 💞️ Open to Collaborations On
+- AI-related projects.
+- Python development.
+- Web applications (Frontend/Backend).
+
+### 📫 How to Reach Me
+- **Instagram**: [ai_enthusiast78](https://www.instagram.com/ai_enthusiast78)
+- **LinkedIn**: [Muskan Tariq](https://www.linkedin.com/in/muskan-tariq-095a50282)
+          
 
 <!---
 smilingstar78/smilingstar78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
