@@ -16,7 +16,7 @@
 - Web applications (Frontend/Backend).
 
 ### 📫 How to Reach Me
-- **Instagram**: [ai_enthusiast78](https://www.instagram.com/ai_enthusiast78)
+- **Instagram**: [ai_enthusiast86](https://www.instagram.com/ai_enthusiast86)
 - **LinkedIn**: [Muskan Tariq](https://www.linkedin.com/in/muskan-tariq-095a50282)
           
 
