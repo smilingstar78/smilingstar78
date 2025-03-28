@@ -17,11 +17,7 @@
 
 ### 📫 How to Reach Me
 - **Instagram**: [ai_enthusiast86](https://www.instagram.com/ai_enthusiast86)
-- **LinkedIn**: [Muskan Tariq](https://www.linkedin.com/in/muskan-tariq-095a50282)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=smilingstar78)](https://git.io/streak-stats)
-          
+- **LinkedIn**: [Muskan Tariq](https://www.linkedin.com/in/muskan-tariq-095a50282)       
 
 <!---
 smilingstar78/smilingstar78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
