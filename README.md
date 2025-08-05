@@ -1,44 +1,54 @@
 <h1 align="center">👋 Hey, I'm Muskan Tariq</h1>
-<h3 align="center">💻 AI Enthusiast | Dreamy Dev | K-Drama Fan | Forever Learning 💡</h3>
+<h3 align="center">💻 AI Engineer (in progress) | Dreamy Dev | K-Drama Lover | Lifelong Learner 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=AI+Engineer+in+the+Making...;Learning+ML+%2B+DL+one+project+at+a+time.;Code+%2B+Creativity+%3D+Me+%F0%9F%92%A1;Flask%2C+Python%2C+SQL+...+Let's+Build!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=480&lines=ML+Completed...DL+in+Progress+🚀;Built+Projects+%26+Libraries+From+Scratch🧠;Always+Learning%2C+Always+Building+🌱" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👀 About Me
 
-🌸 An enthusiastic AI Engineering student, deeply curious about how intelligence can be built with code.  
-🐍 I’m passionate about **Machine Learning**, **Python**, and making things that **work + look cute** doing it.  
-✨ I love breaking down complex topics into fun builds — from **student management systems** to **word games**.  
-🎨 If it’s **code + creativity**, I’m *always* in 💡
+🌸 An enthusiastic **AI Engineering student** on a mission to mix **logic + creativity** in every line of code.  
+🧠 I’ve **completed Machine Learning**, including hands-on projects & building core ML libraries from scratch.  
+🚀 Now diving deep into the world of **Deep Learning** — exploring neural networks, computer vision, and more.  
+💡 I’m passionate about solving real problems, explaining complex stuff simply, and making learning look *aesthetic*.  
+🎨 If it’s **code + creativity**, count me in.
 
 ---
 
-### 🌱 What I’m Working On
+### ✅ My ML Journey (Done & Dusted 😌)
 
-- 🧠 Practicing **Linear & Ridge Regression** in ML  
-- 📊 Exploring datasets with **Pandas**, **NumPy**, **Matplotlib**  
-- 🎓 Following courses like `CS50`, `freeCodeCamp`, `SoloLearn`, `HP Life`  
-- 💻 Building personal projects in `Flask`, `SQL`, and front-end tech  
-- 🧩 Mixing **AI + Imagination** to create cool tools & fun games  
+- 📊 Preprocessed real-world datasets with Pandas, NumPy, and Scikit-Learn  
+- 🧪 Trained, tuned, and tested ML models: Linear/Ridge/Logistic Regression, KNN, Decision Trees, etc.  
+- 🧱 Created **ML libraries from scratch** — learned how models really work under the hood  
+- 🎓 Completed courses: CS50, SoloLearn, HP Life, freeCodeCamp  
+- 💻 Built cool & creative **ML Projects** — everything from classifiers to data apps
+
+---
+
+### 🌊 What I’m Doing Now
+
+- 🤖 Deep Diving into **Deep Learning** — exploring TensorFlow, Keras, Neural Networks  
+- 📈 Practicing with image data, MNIST, CNNs and model visualization  
+- 🌐 Building full-stack mini tools using Flask + ML/DL  
+- 🎯 Leveling up through challenges like `100DaysOfML`  
+- 🧩 Exploring fun projects that merge **AI + imagination**
 
 ---
 
 ### 💞️ Open to Collaborations On
 
-- 🤖 ML / AI projects  
-- 🌐 Anything with Flask, SQL, Python, HTML/CSS/JS  
-- 📚 Study collabs or co-learning through bootcamps/courses  
-- 🎮 Mini creative projects: games, tools, apps  
-- ✨ Internships, open source, or hackathons!
+- 🤖 Machine Learning or Deep Learning Projects  
+- 💻 Anything with Flask, SQL, Python, HTML/CSS/JS  
+- 🎮 Fun mini-projects like games, to-do tools, image classifiers, or note apps  
+- 🤝 Study collabs, open source, hackathons, bootcamp squads
 
-**If you've got an idea or just wanna build something fun, let’s chat! 💌**
+**Let’s build something cool together!**
 
 ---
 
-### 📫 Let’s Connect & Build Together!
+### 📫 Let’s Connect & Vibe Over Code + Chai 🍵✨
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muskan-tariq-095a50282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskan%20Tariq-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
