@@ -2,7 +2,7 @@
   
 ---
   
-# 👀About Me
+### 👀About Me
 - 🌟 Passionate **AI Engineer** combining **data, logic, and creativity** to build intelligent applications.  <br>
 - 🤖 Experienced in **Machine Learning, Deep Learning, NLP, and Computer Vision** with hands-on projects.  <br>
 - 💻 Skilled in **full-stack AI apps**, integrating models with **Python, Flask, and Web Technologies**.  <br>
@@ -25,7 +25,7 @@
 - 🌐 Combining **Full-Stack + AI** to deploy real-world applications  <br><br>
 
 ---
-- ### 💞️ Open to Collaborations<br><br>
+ ### 💞️ Open to Collaborations<br><br>
 - 🤖 Deep Learning, NLP, or Computer Vision Projects  <br>
 - 💻 Full-stack AI Apps (Python, Flask, HTML/CSS/JS)  <br>
 - 🧩 Fun projects combining **AI + creativity + innovation**  <br>
