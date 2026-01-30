@@ -3,7 +3,10 @@
 ---
   
 # 👀About Me
-🌟 Passionate **AI Engineer** combining **data, logic, and creativity** to build intelligent applications.  <br>🤖 Experienced in **Machine Learning, Deep Learning, NLP, and Computer Vision** with hands-on projects.  <br>💻 Skilled in **full-stack AI apps**, integrating models with **Python, Flask, and Web Technologies**.  <br>💡 I focus on creating **real-world solutions**, sharing knowledge, and learning every day.<br><br>
+- 🌟 Passionate **AI Engineer** combining **data, logic, and creativity** to build intelligent applications.  <br>
+- 🤖 Experienced in **Machine Learning, Deep Learning, NLP, and Computer Vision** with hands-on projects.  <br>
+- 💻 Skilled in **full-stack AI apps**, integrating models with **Python, Flask, and Web Technologies**.  <br>
+- 💡 I focus on creating **real-world solutions**, sharing knowledge, and learning every day.<br><br>
 ---
 ### ✅ My AI/ML/DL Journey<br><br>
 - 📊 **Data Preprocessing & ML:** Pandas, NumPy, Scikit-Learn  <br>
