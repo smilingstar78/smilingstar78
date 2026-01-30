@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Muskan Tariq</h1><br><h3 align="center">💻 AI Engineer | Deep Learning | Computer Vision | NLP | Full-Stack AI Enthusiast</h3><br><br><p align="center">
+<h1 align="center">👋 Hello, I'm Muskan Tariq</h1><br><h3 align="center">💻 AI Engineer | Deep Learning | Computer Vision | NLP | Full-Stack AI Enthusiast</h3><p align="center">
   
 ---
   
